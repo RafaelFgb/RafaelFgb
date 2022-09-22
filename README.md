@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como Assistente Administrativo.
 - 🌱 Estou estudando Desenvolvimento de sistemas em método FullStack.
-- 👯 Buscando usar meus conhecimentos para colaborar junto a um time que me de oportunidade nessa nova jornada.
+- 👯 Buscando usar meus conhecimentos para colaborar junto a um time que me de oportunidade nessa jornada.
 - 💬 Sinta-se em casa, 'bora' trocar experiências e conhecimentos...
 
 <div align="">
