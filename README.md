@@ -6,7 +6,7 @@
 - 👯 Estou buscando usar meus conhecimentos para colaborar com um time que me acolha nessa nova jornada.
 - 💬 Sinta-se em casa, 'bora' trocar experiências e conhecimentos...
 
-<div align="center">
+<div align="">
   <a href="https://github.com/RafaelFgb">
   <img height="160em" "width=20m" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgb&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" "width=20m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfgb&layout=compact&langs_count=7&theme=merko"/>
