@@ -10,7 +10,7 @@
   <a href="https://github.com/RafaelFgb">
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/RafaelFgb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFgb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFgb&layout=compact&langs_count=7&theme=dracula"/>
    <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfgb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
