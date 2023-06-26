@@ -8,9 +8,9 @@
 
 /* <div align="">
   <a href="https://github.com/RafaelFgb">
-  <img height="210em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/RafaelFgb">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFgb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFgb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
