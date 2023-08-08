@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho como Desenvolvedor Jr Backend na empresa Performa_IT.
 - 💬 Sinta-se em casa, 'bora' trocar experiências e conhecimentos...
 
-/* <div align="">
+ <div align="">
   <a href="https://github.com/RafaelFgb">
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/RafaelFgb">
