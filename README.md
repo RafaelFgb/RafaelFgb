@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Rafael Felipe 👋
 
 
-- 🔭 Atualmente trabalho como Assistente Administrativo.
-- 🌱 Estou estudando Desenvolvimento de sistemas em método FullStack.
-- 👯 Buscando usar meus conhecimentos para colaborar junto a um time que me de oportunidade nessa jornada.
+- 🔭 Atualmente trabalho como Desenvolvedor Jr Backend na empresa Performa_IT.
 - 💬 Sinta-se em casa, 'bora' trocar experiências e conhecimentos...
 
 /* <div align="">
