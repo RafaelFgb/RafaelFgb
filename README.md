@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael Feliepe 👋
+### Olá! Eu sou o Rafael Felipe 👋
 
 
 - 🔭 Atualmente trabalho como Assistente Administrativo.
